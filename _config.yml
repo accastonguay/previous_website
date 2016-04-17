@@ -7,7 +7,7 @@ email: adam.charette.castonguay@monash.edu
 copyright_name: Adam Castonguay
 description: "My website"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://localhost:4000 #only used in disque comments for now
+url: http://accastonguay.github.io #only used in disque comments for now
 github_username:  accastonguay
 facebook_username:  adam.castonguay.3
 email_username:  adam.charette.castonguay@monash.edu
