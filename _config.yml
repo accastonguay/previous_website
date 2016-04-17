@@ -1,0 +1,30 @@
+# Site settings
+title: #Adam Castonguay
+index_title: Home # same as title in index.html file, so that custom description can be set in page.html layout.
+blog_title: Adam Castonguay
+header-img: img/home-bg.jpg
+email: adam.charette.castonguay@monash.edu
+copyright_name: Adam Castonguay
+description: "My website"
+baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
+url: http://localhost:4000 #only used in disque comments for now
+github_username:  accastonguay
+facebook_username:  adam.castonguay.3
+email_username:  adam.charette.castonguay@monash.edu
+linkedin_username: kyrielle53@yahoo.ca
+# used to estimate reading time
+wpm: 180
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+port: 8888
+permalink: /blog/:title
+
+# jekyll-paginate
+paginate: 5
+paginate_path: blog/page:num
+
+# gem dependencies
+gems: [jekyll-paginate, jekyll-feed]
