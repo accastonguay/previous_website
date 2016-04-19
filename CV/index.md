@@ -33,36 +33,6 @@ Banaue rice terraces. Supervisors: Prof. Felix Muller and PD Benjamin Burkhard.
      Thesis title: Agricultural protectionism in international trade - the case of U.S. cotton production support (in French)
 <p></p>
 
-# Publications
-
-<p></p>
-
-2016
-:    Castonguay, A.C., Burkhard, B., Muller, F., Horgan, F., Settele, J. 2016. Resilience and adaptability of rice terrace social-ecological systems: a case study of a local communitys perception in Banaue, Philippines. Ecology and Society,
-Accepted.
-
-2014
-:    Castonguay, A.C. 2014. Assessment of resilience and adaptability of social-ecological systems: a case study of the Banaue rice terraces. AV Akademik-erverlag (ISBN: 978-3639720297).
-
-# Awards and scholarships
-
-<p></p>
-
-2015 
-:    Monash Residential Services Postgraduate Merit Scholarship, Monash University
-
-<p></p>
-
-2015 -- 2018
-:    Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS), Monash University
-
-<p></p>
-
-2013
-:    Master's thesis grant, Advisory Service on Agricultural Research for Development (BEAF) of the German Society for International Cooperation (GIZ)
-
-<p></p>
-
 # Contract employment
 
 <p></p>
@@ -97,6 +67,36 @@ Rice Research Institute (IRRI). The research was part of
 the LEGATO Project and was funded by the Advisory
 Service on Agricultural Research for Development
 (BEAF) of GIZ.
+
+# Publications
+
+<p></p>
+
+2016
+:    Castonguay, A.C., Burkhard, B., Muller, F., Horgan, F., Settele, J. 2016. Resilience and adaptability of rice terrace social-ecological systems: a case study of a local communitys perception in Banaue, Philippines. Ecology and Society,
+Accepted.
+
+2014
+:    Castonguay, A.C. 2014. Assessment of resilience and adaptability of social-ecological systems: a case study of the Banaue rice terraces. AV Akademik-erverlag (ISBN: 978-3639720297).
+
+# Awards and scholarships
+
+<p></p>
+
+2015 
+:    Monash Residential Services Postgraduate Merit Scholarship, Monash University
+
+<p></p>
+
+2015 -- 2018
+:    Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS), Monash University
+
+<p></p>
+
+2013
+:    Master's thesis grant, Advisory Service on Agricultural Research for Development (BEAF) of the German Society for International Cooperation (GIZ)
+
+<p></p>
 
 # Selected courses and training
 

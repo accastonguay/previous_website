@@ -1,6 +1,6 @@
 # Site settings
 title: #Adam Castonguay
-index_title: Home # same as title in index.html file, so that custom description can be set in page.html layout.
+index_title: About # same as title in index.html file, so that custom description can be set in page.html layout.
 blog_title: Adam Castonguay
 header-img: img/home-bg.jpg
 email: adam.charette.castonguay@monash.edu
