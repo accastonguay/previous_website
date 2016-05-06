@@ -14,7 +14,7 @@ email_username:  adam.charette.castonguay@monash.edu
 linkedin_username: kyrielle53@yahoo.ca
 # used to estimate reading time
 wpm: 180
-
+encoding: utf-8
 # Build settings
 markdown: kramdown
 highlighter: rouge
