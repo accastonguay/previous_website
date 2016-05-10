@@ -26,7 +26,9 @@ Below are some upcoming events related to my research.
    
 **[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic   
 
-**9th International Congress on Environmental Modelling and Software (iEMSs)**, July, 2018, Fort Collins, USA   
+**14th Asian Urbanization Conference**, January 10-12, 2018, Bangkok, Thailand   
+
+**9th International Congress on Environmental Modelling and Software**, July, 2018, Fort Collins, USA   
 
 **World Water Congress**, 2018, Tokyo, Japan
 
