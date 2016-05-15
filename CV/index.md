@@ -72,11 +72,11 @@ Service on Agricultural Research for Development
 
 <p></p>
 2016
-:    Castonguay, A.C., Burkhard, B., Muller, F., Horgan, F., Settele, J. 2016. Resilience and adaptability of rice terrace social-ecological systems: a case study of a local community's perception in Banaue, Philippines. Ecology and Society 21(2):15. [http://dx.doi.org/10.5751/ES-08348-210215](http://dx.doi.org/10.5751/ES-08348-210215) [(PDF)](papers/Castonguay_et_al_2016.pdf) 
+:    **Castonguay, A.C.**, Burkhard, B., Muller, F., Horgan, F., Settele, J. 2016. Resilience and adaptability of rice terrace social-ecological systems: a case study of a local community's perception in Banaue, Philippines. Ecology and Society 21(2):15. [http://dx.doi.org/10.5751/ES-08348-210215](http://dx.doi.org/10.5751/ES-08348-210215) [(PDF)](papers/Castonguay_et_al_2016.pdf) 
 
 <p></p>
 2014
-:    Castonguay, A.C. 2014. Assessment of resilience and adaptability of social-ecological systems: a case study of the Banaue rice terraces. AV Akademik-erverlag (ISBN: 978-3639720297).
+:    **Castonguay, A.C**. 2014. Assessment of resilience and adaptability of social-ecological systems: a case study of the Banaue rice terraces. AV Akademik-erverlag (ISBN: 978-3639720297).
 
 # Awards and scholarships
 
