@@ -7,6 +7,7 @@ header-img: "img/sun.JPG"
 
 ---
 
+[(PDF Version)](resume/cv.pdf) 
    
 # Education
 
