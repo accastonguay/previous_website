@@ -22,6 +22,8 @@ Below are some upcoming events related to my research.
 
 # 2017 
 
+**[Green infrastructure: Nature-based solutions for sustainable and resilient cities](http://www.greeninurbs.com/finalconference/)**, April 4-7, Orvieto, Italy
+
 **[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden
    
 **[Resilience 2017](http://www.stockholmresilience.org/research/research-news/2016-05-13-introducing-resilience2017.html)**, August 21-23, Stockholm, Sweden
@@ -37,6 +39,4 @@ Below are some upcoming events related to my research.
 **9th International Congress on Environmental Modelling and Software**, July, Fort Collins, USA   
 
 **World Water Congress**, Tokyo, Japan
-
-
 
