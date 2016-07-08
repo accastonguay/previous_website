@@ -26,7 +26,7 @@ Below are some upcoming events related to my research.
 
 **[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden
    
-**[Resilience 2017](http://www.stockholmresilience.org/research/research-news/2016-05-13-introducing-resilience2017.html)**, August 21-23, Stockholm, Sweden
+**[Resilience 2017](http://www.stockholmresilience.org/research/research-news/2016-06-22-resilience-2017-conference.html)**, August 21-23, Stockholm, Sweden
    
 **[Transformations 2017](http://www.transformations2017.org/)**, August 30-September 1, Dundee, UK
    

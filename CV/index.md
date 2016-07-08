@@ -43,7 +43,7 @@ Banaue rice terraces. Supervisors: Prof. Felix Muller and PD Benjamin Burkhard.
 Collaborative Research Center for Water Sensitive Cities,
 Clayton, Australia.  
 Provide a diagnostic and best practice knowledge to guide investment programs linked with the Asian
-Development Bank operations and private sector partners in developing cities of the Asia-Pacic region. Apply the Water Sensitive Cities Index in Mandalay (Myanmar) and Suva (Fiji).
+Development Bank operations and private sector partners in developing cities of the Asia-Pacific region. Apply the Water Sensitive Cities Index in Mandalay (Myanmar) and Suva (Fiji).
 
 <p></p>
 

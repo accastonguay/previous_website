@@ -8,8 +8,11 @@ header-img: "img/borobodur.jpg"
 ---
 
    
-# Rainwater tank uptake in Melbourne
+# Urban water transitions
 
+The main focus of my research to look into ploicies than can enable urban water management transition, that is to make urban water management more resilient, adaptive and water sensitive. 
+The method that was chosen to look into these policies is through agent-based modelling, by simulating stakeholders as decentralised agents and by defining their behavior or decision rules.
+A part of the research is to evaluate the effectiveness policies in influencing the behavior of households, for example with regards to private technology adoption.
 
 
 <div>
@@ -17,6 +20,9 @@ header-img: "img/borobodur.jpg"
     <script data-plotly="ACas:78"  src="https://plot.ly/embed.js" async></script>
 </div>
 
+
+The second part of the research consists of simulating the investment in public water technologies, most often from city councils, or local governments.
+This is challenging since the behavior is likely to change from one council to another and multiple decision rules are to be developped.
 
 <!--
 <p> Make graph with Dimple.js </p>
