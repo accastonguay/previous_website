@@ -21,6 +21,7 @@ Below are some upcoming and past events related to my research.
 ### 2017 
 
 **[Green infrastructure: Nature-based solutions for sustainable and resilient cities](http://www.greeninurbs.com/finalconference/)**, April 4-7, Orvieto, Italy
+      
 **[Resilience 2017](http://www.stockholmresilience.org/research/research-news/2016-06-22-resilience-2017-conference.html)**, August 21-23, Stockholm, Sweden
    
 **[Transformations 2017](http://www.transformations2017.org/)**, August 30-September 1, Dundee, UK
