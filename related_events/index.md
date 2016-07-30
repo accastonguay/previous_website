@@ -9,6 +9,8 @@ header-img: "img/prembanan.JPG"
 
 Below are some upcoming and past events related to my research.
 
+<br>
+
 <h1 align="center"> Upcoming events </h1>  
 
 
@@ -21,16 +23,17 @@ Below are some upcoming and past events related to my research.
 ### 2017 
 
 **[Green infrastructure: Nature-based solutions for sustainable and resilient cities](http://www.greeninurbs.com/finalconference/)**, April 4-7, Orvieto, Italy
-      
+   
+**[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden
+
 **[Resilience 2017](http://www.stockholmresilience.org/research/research-news/2016-06-22-resilience-2017-conference.html)**, August 21-23, Stockholm, Sweden
    
 **[Transformations 2017](http://www.transformations2017.org/)**, August 30-September 1, Dundee, UK
+      
+**[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic    
 
-**[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden
-   
 **[IWA-ASPIRE 2017](http://www.aspire2017.org.my/index.html)**, September 11-13, Kuala Lumpur, Malaysia
-   
-**[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic  
+
 
 ### 2018 
 
@@ -41,7 +44,7 @@ Below are some upcoming and past events related to my research.
 **[9th International Congress on Environmental Modelling and Software](http://www.aspire2017.org.my/index.html)**, June 24-28, Fort Collins, USA   
 
 **World Water Congress**, Tokyo, Japan
-
+<br>
 <h1 align="center"> Past events </h1>  
  
 **[8th International Congress on Environmental Modelling and Software](http://www.iemss.org/sites/iemss2016/index.php)**, July 10-14, Toulouse, France   
