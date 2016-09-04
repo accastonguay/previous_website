@@ -7,7 +7,7 @@ header-img: "img/prembanan.JPG"
 
 ---
 
-Below are some upcoming and past events related to my research.
+Below are some upcoming events related to my research.
 
 <br>
 
@@ -44,9 +44,3 @@ Below are some upcoming and past events related to my research.
 **[9th International Congress on Environmental Modelling and Software](http://www.aspire2017.org.my/index.html)**, June 24-28, Fort Collins, USA   
 
 **World Water Congress**, Tokyo, Japan
-<br>
-<h1 align="center"> Past events </h1>  
- 
-**[8th International Congress on Environmental Modelling and Software](http://www.iemss.org/sites/iemss2016/index.php)**, July 10-14, Toulouse, France   
-
-**[Low Impact Development (LID)](http://www.lid2016-china.org/en/)**, June 26-29, Beijing, China
