@@ -35,8 +35,9 @@ This is challenging since the behavior is likely to change from one council to a
 
 The model developped in Melbourne will then be adapted to be applied in the city of Bogor, West Java in Indonesia.
 
-<iframe width="750" height="500" src="bogor_map.html"></iframe>
-
+<div class="fluidMedia">
+    <iframe src="" frameborder="0" src="bogor_map.html"></iframe>
+</div>
 
 <!--The codes to get this map can be found [here](map_test.html "Maps")-->
 
