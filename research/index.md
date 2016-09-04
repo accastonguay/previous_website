@@ -17,9 +17,7 @@ A part of the research is to evaluate the effectiveness policies in influencing 
 The model is developed and tested in the Scotchman's Creek catchment, in the southeast part of Melbourne.
 <br>
 
-<div class="fluidMedia">
-    <iframe src="catchment.html" frameborder="0"> </iframe>
-</div>
+<iframe style="overflow:hidden;width:100%" height="400" src="catchment.html"> </iframe>
 
 
 
@@ -38,9 +36,7 @@ This is challenging since the behavior is likely to change from one council to a
 The model developped in Melbourne will then be adapted to be applied in the city of Bogor, West Java in Indonesia.
 
 
-<!--<div class="fluidMedia">   -->
 <iframe style="overflow:hidden;width:100%" height="400" src="bogor_map.html"> </iframe>
-<!--</div>-->
 
 <!--The codes to get this map can be found [here](map_test.html "Maps")-->
 
