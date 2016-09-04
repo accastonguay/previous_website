@@ -5802,7 +5802,7 @@ button.list-group-item-danger.active:focus {
 }
 .embed-responsive .embed-responsive-item,
 .embed-responsive iframe {
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
