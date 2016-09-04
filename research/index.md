@@ -17,9 +17,9 @@ A part of the research is to evaluate the effectiveness policies in influencing 
 The model is developed and tested in the Scotchman's Creek catchment, in the southeast part of Melbourne.
 <br>
 
-
-<iframe width="750" height="500" src="catchment.html"></iframe>
-
+<div class="fluidMedia">
+    <iframe src="" frameborder="0" width="750" height="500" src="catchment.html"></iframe>
+</div>
 
 <br>
 <div>
