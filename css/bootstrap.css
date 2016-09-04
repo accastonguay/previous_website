@@ -5801,7 +5801,15 @@ button.list-group-item-danger.active:focus {
   overflow: hidden;
 }
 .embed-responsive .embed-responsive-item,
-.embed-responsive iframe,
+.embed-responsive iframe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+},
 .embed-responsive embed,
 .embed-responsive object,
 .embed-responsive video {
