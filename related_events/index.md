@@ -30,9 +30,9 @@ Below are some upcoming events related to my research.
    
 **[Transformations 2017](http://www.transformations2017.org/)**, August 30-September 1, Dundee, UK
 
-**[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic   
-
 **[4th Water Research Conference: The Role of Water Technology Innovation in the Blue Economy](http://www.waterresearchconference.com/)**, September 10-13, Waterloo, Canada
+
+**[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic   
 
 **[IWA-ASPIRE 2017](http://www.aspire2017.org.my/index.html)**, September 11-13, Kuala Lumpur, Malaysia
 
