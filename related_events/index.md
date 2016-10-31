@@ -11,16 +11,17 @@ Below are some upcoming events related to my research.
 
 <br>
 
-<h1 align="center"> Upcoming events </h1>  
+<!--<h1 align="center"> Upcoming events </h1>  -->
 
 
-### 2016
+
+<!-- ## 2016
 
 **[Urban Transitions Global Summit](http://www.urbantransitionsconference.com/)**, September 5-9, Shanghai, China   
 
-**[World Water Congress](http://www.iwa-network.org/event/world-water-congress-exhibition-2016/)**, October 9-14, Brisbane, Australia  
+**[World Water Congress](http://www.iwa-network.org/event/world-water-congress-exhibition-2016/)**, October 9-14, Brisbane, Australia  -->
 
-### 2017 
+## 2017 
 
 **[Green infrastructure: Nature-based solutions for sustainable and resilient cities](http://www.greeninurbs.com/finalconference/)**, April 4-7, Orvieto, Italy
    
@@ -36,8 +37,9 @@ Below are some upcoming events related to my research.
 
 **[IWA-ASPIRE 2017](http://www.aspire2017.org.my/index.html)**, September 11-13, Kuala Lumpur, Malaysia
 
+<br>
 
-### 2018 
+## 2018 
 
 **14th Asian Urbanization Conference**, January 10-12, Bangkok, Thailand   
 

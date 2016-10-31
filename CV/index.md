@@ -84,7 +84,7 @@ Service on Agricultural Research for Development
 <center><b> Conference proceeding </b></center>
 <p></p>
 2016
-:	**Castonguay, A.C.**, Urich, C., Iftekhar, M.S., Deletic, A. 2016. Modelling urban transition: a case of rainwater harvesting. In: Sauvage, S., Sanchez-Perez, J.M., Rizzoli, A.E. (Eds.), 2016. Proceedings of the 8th International Congress on Environmental Modelling and Software, July 10-14, Toulouse, France. (ISBN: 978-8890357459)
+:	**Castonguay, A.C.**, Urich, C., Iftekhar, M.S., Deletic, A. 2016. Modelling urban transition: a case of rainwater harvesting. In: Sauvage, S., Sanchez-Perez, J.M., Rizzoli, A.E. (Eds.), 2016. Proceedings of the 8th International Congress on Environmental Modelling and Software, July 10-14, Toulouse, France. (ISBN: 978-8890357459)[(PDF)](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1568&context=iemssconference) 
  
 
 # Awards and scholarships

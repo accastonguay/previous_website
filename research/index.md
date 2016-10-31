@@ -33,10 +33,10 @@ This is challenging since the behavior is likely to change from one council to a
 
 # Application of the model in Indonesia
 
-The model developped in Melbourne will then be adapted to be applied in the city of Bogor, West Java in Indonesia.
+The model developped in Melbourne will then be adapted to be applied in the city of Surabaya, East Java in Indonesia.
 
 
-<iframe style="overflow:hidden;width:100%" height="400" src="bogor_map.html"> </iframe>
+<!--<iframe style="overflow:hidden;width:100%" height="400" src="bogor_map.html"> </iframe>-->
 
 <!--The codes to get this map can be found [here](map_test.html "Maps")-->
 
