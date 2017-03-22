@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="OruxMaps v.7.0.2" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name><![CDATA[Waypoints]]></name>
+<link href="http://www.oruxmaps.com">
+<text>OruxMaps</text>
+</link>
+<time>2017-03-22T14:20:58Z</time></metadata>
+<wpt lat="-6.5538479" lon="106.7949412">
+<ele>189.07</ele>
+<time>2017-03-22T09:56:16Z</time>
+<name><![CDATA[WPT_0000046]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_165616.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5538479" lon="106.7949412">
+<ele>189.07</ele>
+<time>2017-03-22T09:56:03Z</time>
+<name><![CDATA[WPT_0000045]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_165603.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5538479" lon="106.7949412">
+<ele>189.07</ele>
+<time>2017-03-22T09:55:50Z</time>
+<name><![CDATA[WPT_0000044]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_165550.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5537291" lon="106.7947526">
+<ele>194.67</ele>
+<time>2017-03-22T09:55:29Z</time>
+<name><![CDATA[0000043]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5537299" lon="106.7946276">
+<ele>201.30</ele>
+<time>2017-03-22T09:54:27Z</time>
+<name><![CDATA[WPT_0000042]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_165428.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552387" lon="106.7943195">
+<ele>191.68</ele>
+<time>2017-03-22T09:47:21Z</time>
+<name><![CDATA[WPT_0000040]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164721.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552135" lon="106.7943080">
+<ele>196.98</ele>
+<time>2017-03-22T09:46:51Z</time>
+<name><![CDATA[WPT_0000039]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164651.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552111" lon="106.7942232">
+<ele>190.99</ele>
+<time>2017-03-22T09:46:30Z</time>
+<name><![CDATA[WPT_0000038]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164630.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552350" lon="106.7942517">
+<ele>196.39</ele>
+<time>2017-03-22T09:45:59Z</time>
+<name><![CDATA[WPT_0000037]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164559.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552108" lon="106.7941716">
+<ele>195.96</ele>
+<time>2017-03-22T09:45:27Z</time>
+<name><![CDATA[WPT_0000036]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164527.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552465" lon="106.7940966">
+<ele>202.34</ele>
+<time>2017-03-22T09:45:06Z</time>
+<name><![CDATA[WPT_0000035]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164507.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552371" lon="106.7941247">
+<ele>197.95</ele>
+<time>2017-03-22T09:44:40Z</time>
+<name><![CDATA[WPT_0000034]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164440.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551522" lon="106.7941586">
+<ele>196.06</ele>
+<time>2017-03-22T09:44:28Z</time>
+<name><![CDATA[WPT_0000033]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164428.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5548923" lon="106.7938837">
+<ele>194.87</ele>
+<time>2017-03-22T09:43:33Z</time>
+<name><![CDATA[WPT_0000032]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164333.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551015" lon="106.7938471">
+<ele>0.00</ele>
+<time>2017-03-22T09:53:42Z</time>
+<name><![CDATA[WPT_0000041]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_165343.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5541024" lon="106.7940203">
+<ele>197.39</ele>
+<time>2017-03-22T09:42:47Z</time>
+<name><![CDATA[WPT_0000031]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_164247.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551309" lon="106.7937032">
+<ele>196.98</ele>
+<time>2017-03-22T09:38:07Z</time>
+<name><![CDATA[WPT_0000030]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163807.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551641" lon="106.7937062">
+<ele>199.30</ele>
+<time>2017-03-22T09:37:41Z</time>
+<name><![CDATA[WPT_0000029]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163742.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551580" lon="106.7937050">
+<ele>200.51</ele>
+<time>2017-03-22T09:37:32Z</time>
+<name><![CDATA[WPT_0000028]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163732.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551723" lon="106.7937019">
+<ele>195.94</ele>
+<time>2017-03-22T09:37:21Z</time>
+<name><![CDATA[WPT_0000027]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163721.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551723" lon="106.7937019">
+<ele>195.94</ele>
+<time>2017-03-22T09:37:09Z</time>
+<name><![CDATA[WPT_0000026]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163709.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552012" lon="106.7937093">
+<ele>196.98</ele>
+<time>2017-03-22T09:36:26Z</time>
+<name><![CDATA[WPT_0000025]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163626.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5552012" lon="106.7937093">
+<ele>196.98</ele>
+<time>2017-03-22T09:36:15Z</time>
+<name><![CDATA[WPT_0000024]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163615.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5551493" lon="106.7937048">
+<ele>194.99</ele>
+<time>2017-03-22T09:35:42Z</time>
+<name><![CDATA[WPT_0000023]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163542.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5544087" lon="106.7938161">
+<ele>204.07</ele>
+<time>2017-03-22T09:32:50Z</time>
+<name><![CDATA[WPT_0000022]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163250.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5538683" lon="106.7938899">
+<ele>199.28</ele>
+<time>2017-03-22T09:31:38Z</time>
+<name><![CDATA[WPT_0000021]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_163138.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5538480" lon="106.7939584">
+<ele>197.97</ele>
+<time>2017-03-22T09:29:56Z</time>
+<name><![CDATA[WPT_0000020]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_162956.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5995249" lon="106.7903097">
+<ele>256.18</ele>
+<time>2017-03-22T08:38:12Z</time>
+<name><![CDATA[WPT_0000019]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_153812.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5994882" lon="106.7903177">
+<ele>261.28</ele>
+<time>2017-03-22T08:36:50Z</time>
+<name><![CDATA[WPT_0000018]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_153650.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.5993422" lon="106.7904596">
+<ele>256.98</ele>
+<time>2017-03-22T08:36:26Z</time>
+<name><![CDATA[WPT_0000017]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_153626.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6070995" lon="106.7934393">
+<ele>248.87</ele>
+<time>2017-03-22T08:19:45Z</time>
+<name><![CDATA[WPT_0000016]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151945.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6072057" lon="106.7931784">
+<ele>249.06</ele>
+<time>2017-03-22T08:18:42Z</time>
+<name><![CDATA[WPT_0000015]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151842.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6072128" lon="106.7931578">
+<ele>248.91</ele>
+<time>2017-03-22T08:18:14Z</time>
+<name><![CDATA[WPT_0000014]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151814.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6072128" lon="106.7931711">
+<ele>246.77</ele>
+<time>2017-03-22T08:17:52Z</time>
+<name><![CDATA[WPT_0000013]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151752.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6072105" lon="106.7931806">
+<ele>247.32</ele>
+<time>2017-03-22T08:17:39Z</time>
+<name><![CDATA[WPT_0000012]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151739.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6071796" lon="106.7932778">
+<ele>248.71</ele>
+<time>2017-03-22T08:17:08Z</time>
+<name><![CDATA[WPT_0000011]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151708.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6071052" lon="106.7933973">
+<ele>250.69</ele>
+<time>2017-03-22T08:16:27Z</time>
+<name><![CDATA[WPT_0000010]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151627.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6075566" lon="106.7935529">
+<ele>248.68</ele>
+<time>2017-03-22T08:16:01Z</time>
+<name><![CDATA[WPT_0000009]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151601.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6081082" lon="106.7935025">
+<ele>246.98</ele>
+<time>2017-03-22T08:14:20Z</time>
+<name><![CDATA[WPT_0000008]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151420.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6081026" lon="106.7935209">
+<ele>244.46</ele>
+<time>2017-03-22T08:14:02Z</time>
+<name><![CDATA[WPT_0000007]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151402.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6080847" lon="106.7934532">
+<ele>246.18</ele>
+<time>2017-03-22T08:13:50Z</time>
+<name><![CDATA[WPT_0000006]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151350.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6077974" lon="106.7934369">
+<ele>251.99</ele>
+<time>2017-03-22T08:12:42Z</time>
+<name><![CDATA[WPT_0000005]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151242.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+<wpt lat="-6.6076214" lon="106.7934651">
+<ele>248.90</ele>
+<time>2017-03-22T08:12:08Z</time>
+<name><![CDATA[WPT_0000004]]></name>
+<sym>Waypoint</sym>
+<type>Photo</type>
+<extensions>
+<om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0">
+<om:ext type="ICON" subtype="0">3</om:ext>
+<om:ext type="IMAGEN" subtype="0">/storage/emulated/0/oruxmaps/pictures/OMIMG_20170322_151208.jpg</om:ext>
+</om:oruxmapsextensions>
+</extensions>
+</wpt>
+</gpx>
