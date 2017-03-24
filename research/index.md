@@ -10,9 +10,9 @@ header-img: "img/borobodur.jpg"
    
 # Urban water transitions
 
-The main focus of my research to look into ploicies than can enable urban water management transition, that is to make urban water management more resilient, adaptive and water sensitive. 
-The method that was chosen to look into these policies is through agent-based modelling, by simulating stakeholders as decentralised agents and by defining their behavior or decision rules.
-A part of the research is to evaluate the effectiveness policies in influencing the behavior of households, for example with regards to private technology adoption.
+The main focus of my research is to look into policies than can enable urban water management transition, that is to make urban water management more resilient, adaptive and water sensitive. 
+The method that was chosen to look into these policies is through agent-based modelling, by simulating the behavior of stakeholders as decentralised agents and by defining their objectives and decision rules.
+A part of the research is to evaluate the effectiveness policies in influencing the behavior of households, for example to increase water tariffs to increase the uptake if private water technologies.
    
 The model is developed and tested in the Scotchman's Creek catchment, in the southeast part of Melbourne.
 <br>
