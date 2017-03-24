@@ -27,7 +27,7 @@ Below are some upcoming events related to my research.
    
 **[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden
 
-**[Resilience 2017](http://www.stockholmresilience.org/research/research-news/2016-06-22-resilience-2017-conference.html)**, August 21-23, Stockholm, Sweden
+**[Resilience 2017](http://resilience2017.org/)**, August 21-23, Stockholm, Sweden
    
 **[Transformations 2017](http://www.transformations2017.org/)**, August 30-September 1, Dundee, UK
 
@@ -35,7 +35,7 @@ Below are some upcoming events related to my research.
 
 **[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic   
 
-**[IWA-ASPIRE 2017](http://www.aspire2017.org.my/index.html)**, September 11-13, Kuala Lumpur, Malaysia
+**[IWA-ASPIRE 2017](http://www.aspire2017.org.my/)**, September 11-13, Kuala Lumpur, Malaysia
 
 <br>
 
@@ -45,7 +45,7 @@ Below are some upcoming events related to my research.
 
 **[ICLEI World Congress 2018](http://www.iclei.org/details/article/iclei-world-congress-2018.html)**, June 19-23, Montreal, Canada  
 
-**[9th International Congress on Environmental Modelling and Software](http://www.aspire2017.org.my/index.html)**, June 24-28, Fort Collins, USA   
+**[9th International Congress on Environmental Modelling and Software](http://iemss2018.engr.colostate.edu/)**, June 24-28, Fort Collins, USA   
 
 **World Water Congress**, Tokyo, Japan
 
