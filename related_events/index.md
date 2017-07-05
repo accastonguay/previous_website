@@ -19,13 +19,13 @@ Below are some upcoming events related to my research.
 
 **[Urban Transitions Global Summit](http://www.urbantransitionsconference.com/)**, September 5-9, Shanghai, China   
 
-**[World Water Congress](http://www.iwa-network.org/event/world-water-congress-exhibition-2016/)**, October 9-14, Brisbane, Australia  -->
+**[World Water Congress](http://www.iwa-network.org/event/world-water-congress-exhibition-2016/)**, October 9-14, Brisbane, Australia  
 
 ## 2017 
 
 **[Green infrastructure: Nature-based solutions for sustainable and resilient cities](http://www.greeninurbs.com/finalconference/)**, April 4-7, Orvieto, Italy
    
-**[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden
+**[Embrace the water: A cities of the future conference](http://www.embracethewater2017.com/)**, June 12-14, Gothenburg, Sweden -->
 
 **[Resilience 2017](http://resilience2017.org/)**, August 21-23, Stockholm, Sweden
    
@@ -41,11 +41,15 @@ Below are some upcoming events related to my research.
 
 ## 2018 
 
-**14th Asian Urbanization Conference**, January 10-12, Bangkok, Thailand   
+**14th Asian Urbanization Conference**, January 10-12, Bangkok, Thailand  
+
+**[Cities and Climate Change Science Conference](http://citiesipcc.org/)**, March 5-7, Edmonton, Canada   
 
 **[ICLEI World Congress 2018](http://www.iclei.org/details/article/iclei-world-congress-2018.html)**, June 19-23, Montreal, Canada  
 
 **[9th International Congress on Environmental Modelling and Software](http://iemss2018.engr.colostate.edu/)**, June 24-28, Fort Collins, USA   
 
-**World Water Congress**, Tokyo, Japan
+**[13th International Conference on Hydroinformatics](http://www.hic2018.org/)**, July 1-6, Palermo, Italy
+   
+**[World Water Congress](http://worldwatercongress.org/)**, September 16-21, Tokyo, Japan
 

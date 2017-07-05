@@ -68,10 +68,14 @@ Rice Research Institute (IRRI). The research was part of
 the LEGATO Project and was funded by the Advisory
 Service on Agricultural Research for Development
 (BEAF) of GIZ.
+<p></p>
 
 # Publications
 <p></p>
 <center><b> Peer-reviewed article </b></center>
+<p></p>
+2017
+:    Barron, N.J., Kuller, M., Yasmin, T., **Castonguay, A.C.**, Copa, V., Duncan-Horner, E., Gimelli, F.M., Jamali, B., Nielsen, J.S., Ng, K., Novalia, W., Shen, P.F., Conn, R.J., Brown, R.R., Deletic, A. 2017. Towards water sensitive cities in Asia: an interdisciplinary journey. Water Science & Technology [DOI: 10.2166/wst.2017.287](http://wst.iwaponline.com/content/early/2017/05/19/wst.2017.287)
 <p></p>
 2016
 :    **Castonguay, A.C.**, Burkhard, B., Muller, F., Horgan, F., Settele, J. 2016. Resilience and adaptability of rice terrace social-ecological systems: a case study of a local community's perception in Banaue, Philippines. Ecology and Society 21(2):15. [http://dx.doi.org/10.5751/ES-08348-210215](http://dx.doi.org/10.5751/ES-08348-210215) [(PDF)](papers/Castonguay_et_al_2016.pdf) 
@@ -79,14 +83,14 @@ Service on Agricultural Research for Development
 <center><b> Book </b></center>
 <p></p>
 2014
-:    **Castonguay, A.C**. 2014. Assessment of resilience and adaptability of social-ecological systems: a case study of the Banaue rice terraces. AV Akademik-erverlag (ISBN: 978-3639720297).
+:    **Castonguay, A.C.** 2014. Assessment of resilience and adaptability of social-ecological systems: a case study of the Banaue rice terraces. AV Akademik-erverlag (ISBN: 978-3639720297).
 <p></p>
 <center><b> Conference proceeding </b></center>
 <p></p>
 2016
 :	**Castonguay, A.C.**, Urich, C., Iftekhar, M.S., Deletic, A. 2016. Modelling urban transition: a case of rainwater harvesting. In: Sauvage, S., Sanchez-Perez, J.M., Rizzoli, A.E. (Eds.), 2016. Proceedings of the 8th International Congress on Environmental Modelling and Software, July 10-14, Toulouse, France. (ISBN: 978-8890357459)[(PDF)](http://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1568&context=iemssconference) 
+ <p></p>
  
-
 # Awards and scholarships
 
 <p></p>
