@@ -13,9 +13,9 @@ header-img: "img/sun.JPG"
 
 <p></p>
 2015--Present
-:    Ph.D. Candidate, Monash University, Melbourne, Australia  
+:    Ph.D. Candidate, Monash University, Melbourne, Australia   
      Thesis title: Modelling the adoption of water technologies:
-An agent-based approach
+An agent-based approach   
 	 Supervisors: Prof. Ana Deletic, Dr. Christian Urich and Dr. Md Sayed Iftekhar  
 
 <p></p>
@@ -25,7 +25,7 @@ An agent-based approach
      <br />
      Thesis title: Assessment of resilience and adaptability
 of social-ecological systems - a case study of the
-Banaue rice terraces. 
+Banaue rice terraces.   
 	 Supervisors: Prof. Felix Muller and PD Benjamin Burkhard  
 
 
@@ -33,7 +33,7 @@ Banaue rice terraces.
 2004--07
 :    B.A. International Relations, University Laval, Quebec,
      Canada
-     <-- <br/> Thesis title: Agricultural protectionism in international trade - the case of U.S. cotton production support (in French) --!>
+     <!-- <br/> Thesis title: Agricultural protectionism in international trade - the case of U.S. cotton production support (in French) -->
 <p></p>
 
 # Contract employment
