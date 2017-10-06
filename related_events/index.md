@@ -35,7 +35,7 @@ Below are some upcoming events related to my research.
 
 **[14th International Conference on Urban Drainage](http://www.icud2017.org/icud-conference.htm)**, September 10-15, Prague, Czech Republic   
 
-**[IWA-ASPIRE 2017](http://www.aspire2017.org.my/)**, September 11-13, Kuala Lumpur, Malaysia
+**[IWA-ASPIRE 2017](http://www.aspire2017.org.my/)**, September 11-13, Kuala Lumpur, Malaysia -->
 
 <br>
 
@@ -44,6 +44,8 @@ Below are some upcoming events related to my research.
 **14th Asian Urbanization Conference**, January 10-12, Bangkok, Thailand  
 
 **[Cities and Climate Change Science Conference](http://citiesipcc.org/)**, March 5-7, Edmonton, Canada   
+
+**[1st International Conference on Water Security](https://www.elsevier.com/events/conferences/water-security-conference/about)**, June 17-20 2018, Toronto, Canada
 
 **[ICLEI World Congress 2018](http://www.iclei.org/details/article/iclei-world-congress-2018.html)**, June 19-23, Montreal, Canada  
 

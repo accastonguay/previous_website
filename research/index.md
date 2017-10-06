@@ -36,10 +36,23 @@ The model is developed and tested in the Scotchman's Creek catchment, in the sou
 The second part of the research consists of simulating the investment in public water technologies, most often from city councils, or local governments.
 This is challenging since the behavior is likely to change from one council to another and multiple decision rules are to be developped.
 
+[Scatterplot matrix](matrix/demo/demo.html) 
+
+
+WSUDs installation in Melbourne
+
+<p align="center">
+<iframe style="overflow:hidden;width:100%" height="900" src="testgif.gif" frameBorder="0" ></iframe>
+
+</p>
+
+
 # Application of the model in Indonesia
 
 The model developped in Melbourne will then be adapted to be applied in the city of Bogor, Indonesia.
 [Photos waypoints](Scoping_Bogor.html) 
+
+
 
 <!--<iframe style="overflow:hidden;width:100%" height="400" src="bogor_map.html"> </iframe>-->
 
