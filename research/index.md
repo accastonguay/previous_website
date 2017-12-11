@@ -52,9 +52,10 @@ WSUDs installation in Melbourne
 The model developped in Melbourne will then be adapted to be applied in the city of Bogor, Indonesia.
 [Photos waypoints](Scoping_Bogor.html) 
 
+# Cost-benefit analysis of Best Management Practices
 
+<iframe style="overflow:hidden" scrolling="no" width="900" height="1000" frameBorder="0" src="https://accastonguay.shinyapps.io/npv_shiny_hc/"> </iframe>
 
-<!--<iframe style="overflow:hidden;width:100%" height="400" src="bogor_map.html"> </iframe>-->
 
 <!--The codes to get this map can be found [here](map_test.html "Maps")-->
 
