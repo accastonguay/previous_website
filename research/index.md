@@ -7,24 +7,15 @@ header-img: "img/borobodur.jpg"
 weight : 1
 ---
 
-   
 # Urban water transitions
 
-The main focus of my research is to look into policies than can enable urban water management transition, that is to make urban water management more resilient, adaptive and water sensitive. 
-The method that was chosen to look into these policies is through agent-based modelling, by simulating the behavior of stakeholders as decentralised agents and by defining their objectives and decision rules.
-A part of the research is to evaluate the effectiveness policies in influencing the behavior of households, for example to increase water tariffs to increase the uptake if private water technologies.
+The main focus of my research is to develop a model to inform policies to promote the uptake of nature-based solutions for stormwater management and ultimately, enable urban water management transition. 
+The model uses an agent-based approach, by simulating the decision-making process and behavior of stakeholders as actors or agents of the stormwater management system.
    
-The model is developed and tested in the Scotchman's Creek catchment, in the southeast part of Melbourne.
+The model is applied in various locations across the southeast part of Melbournend, which include Scotchman's Creek catchment, Elwood catchment and the City of Kingston.
 <br>
 
 <iframe style="overflow:hidden;width:100%" height="400" src="catchment.html"> </iframe>
-
-<!-- # Categorisation of green water technologies
-
-
-<br>
-
-<iframe style="overflow:hidden;width:100%" height="400" src="d3/index.html"> </iframe> -->
 
 <br>
 <div>
@@ -32,29 +23,28 @@ The model is developed and tested in the Scotchman's Creek catchment, in the sou
     <script data-plotly="ACas:78"  src="https://plot.ly/embed.js" async></script>
 </div>
 
-
+<!--
 The second part of the research consists of simulating the investment in public water technologies, most often from city councils, or local governments.
 This is challenging since the behavior is likely to change from one council to another and multiple decision rules are to be developped.
+-->
 
-[Scatterplot matrix](matrix/demo/demo.html) 
-
-
-WSUDs installation in Melbourne
+# Historical uptake of nature-based stormater solutions in Melbourne
 
 <p align="center">
 <iframe style="overflow:hidden;width:100%" height="900" src="testgif.gif" frameBorder="0" ></iframe>
 
 </p>
 
-
-# Application of the model in Indonesia
+<!--
+#  Application of the model in Indonesia
 
 The model developped in Melbourne will then be adapted to be applied in the city of Bogor, Indonesia.
 [Photos waypoints](Scoping_Bogor.html) 
+-->
 
-# Cost-benefit analysis of Best Management Practices
+#  Cost-benefit analysis of Best Management Practices
 
-<iframe style="overflow:hidden" scrolling="no" width="900" height="1000" frameBorder="0" src="https://accastonguay.shinyapps.io/npv_shiny_hc/"> </iframe>
+<iframe style="overflow:hidden" scrolling="no" width="1000" height="1000" frameBorder="0" src="https://accastonguay.shinyapps.io/rwht_app/"> </iframe>
 
 
 <!--The codes to get this map can be found [here](map_test.html "Maps")-->

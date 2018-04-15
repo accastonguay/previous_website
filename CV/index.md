@@ -12,9 +12,9 @@ weight : 2
 # Education
 
 <p></p>
-2015--Present
-:    Ph.D. Candidate, Monash University, Melbourne, Australia   
-     Thesis title: Modelling the adoption of water technologies:
+2015-Present
+:    Ph.D. Candidate in Civil Engineering, Monash University, Melbourne, Australia   
+     Thesis title: Modelling the adoption of nature-based solutions for stormwater management:
 An agent-based approach   
 	 Supervisors: Prof. Ana Deletic, Dr. Christian Urich and Dr. Md Sayed Iftekhar  
 
@@ -30,7 +30,7 @@ Banaue rice terraces.
 
 
 <p></p>
-2004--07
+2004-07
 :    B.A. International Relations, University Laval, Quebec,
      Canada
 <p></p>
@@ -39,7 +39,7 @@ Banaue rice terraces.
 
 <p></p>
 
-2015--Present
+2015-2016
 :    *Research Officer*  
 Collaborative Research Center for Water Sensitive Cities,
 Clayton, Australia.  
@@ -129,7 +129,7 @@ Introduction to business administration in Latin America
 :    *Summer exchange program*  
     Nankai University, Tianjin, China  
         Chinese language and culture course
-
+<!--
 # Reviews
 Land (MDPI)
-
+-->
